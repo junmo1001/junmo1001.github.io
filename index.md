@@ -3,16 +3,26 @@ layout: about
 ---
 
 # About Me
-건양대학교에 재학중인 2학년 이준모 입니다..  
+건양대학교 컴퓨터공학과 2학년에 재학 중인 이준모입니다.  
+SAP ERP와 업무 자동화에 관심이 많고, 반복되는 일을 코드로 줄이는 것을 좋아합니다.  
+꾸준히 배우고 기록하는 개발자를 목표로 하고 있습니다.  
 
 <br/>
 
 # Career
-ABAP 공부중
+* SAP ABAP 학습 (2025/09 ~ )
+  * ABAP 기초 문법, ALV 리포트, Function Module 실습
+  * SAP 모듈(MM, SD) 업무 흐름 학습
+* 교내 학습 동아리 CodeLab (2024/09 ~ )
+  * 강의 시간표 알림 봇 개발 (Python, Discord API)
+  * Python 스터디 및 알고리즘 문제 풀이
+* 건양대학교 컴퓨터공학과 (2024/03 ~ )
+  * 자료구조, 데이터베이스, 운영체제 수강
+  * SQLD 취득, 정보처리기사 필기 합격
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+기술 트렌드, 특히 ERP와 업무 자동화 분야에 관심이 많습니다.  
+새로운 언어를 배우는 것을 두려워하지 않으며, 주로 Python을 즐겨 사용합니다.  
+귀찮은 일을 자동화해서 줄이는 것을 좋아합니다.

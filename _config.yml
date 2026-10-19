@@ -1,14 +1,14 @@
 # Site settings
-title: A.P
+title: junmo1001 Web site
 baseurl: "/ap"
 url: "https://kssim.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  name: Junmo Lee
+  desc: 안녕하세요 이준모 입니다.
+  email: 2junmo1001@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,9 +17,9 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: junmo1001
   flickr:
-  github: kssim
+  github: junmo1001
   google_plus:
   instagram:
   keybase:
